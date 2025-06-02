@@ -14,7 +14,7 @@ The application works both on mobile devices and in the browser via the 'expo st
 - **Detailed User screen**: Name, Email, Phone, Company
 - **"Refresh" button**: Manual data update
 - **State processing**: Loading, Error, Empty result
-- **Animations**: Animated appearance of list items (fadeInDown)
+- **Animations**: Animated appearance of list items (FadeInDown)
 - **Caching**: Data is saved in `localStorage` for Web
 
 ---
